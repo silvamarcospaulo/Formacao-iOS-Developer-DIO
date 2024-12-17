@@ -19,8 +19,8 @@ let package = Package(
             bundleIdentifier: "silvamarcospaulo.dioDesafioSwift-Um",
             displayVersion: "1.0",
             bundleVersion: "1",
-            appIcon: .placeholder(icon: .carrot),
-            accentColor: .presetColor(.purple),
+            appIcon: .placeholder(icon: .leaf),
+            accentColor: .presetColor(.pink),
             supportedDeviceFamilies: [
                 .pad,
                 .phone
